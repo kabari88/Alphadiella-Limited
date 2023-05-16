@@ -61,12 +61,12 @@ just change the color code  and rgba value. The whole theme color will be change
 .rangeslider-widget button,
 .main-menu .navbar-header .navbar-toggle,
 .theme_bg_color {
-    background: #ffc300;
+    background: #2d0561;
 }
 
 .main-slider .tp-bullets.preview3 .bullet:hover,
 .main-slider .tp-bullets.preview3 .bullet.selected {
-    background: #ffc300 !important;
+    background: #ee0594 !important;
 }
 
 /* Filter the 'color' value classes*/
@@ -137,7 +137,7 @@ just change the color code  and rgba value. The whole theme color will be change
 .post-filter li.active span,
 .checkout-page .default-links li a,
 .thm-color:before {
-    color: #ffc300;
+    color:#ee0594;
 }
 
 /* Filter the 2px solid border value classes */
@@ -182,16 +182,16 @@ figure.effect-bubba figcaption::after,
 .prod-tabs .tab-btns .tab-btn.active-btn,
 .product-details .basic-details .quantity-spinner:focus,
 .border-color {
-    border-color: #ffc300;
+    border-color: #2d0561;
 }
 
 .main-slider .tp-bullets.preview3 .bullet,
 .main-slider .tp-bullets.preview3 .bullet {
-    border-color: #ffc300 !important;
+    border-color: #ee0594 !important;
 }
 
 .sponsors-style-two .tooltip.top .tooltip-arrow {
-    border-top-color: #ffc300;
+    border-top-color: #ee0594;
 }
 
 /* logo background */
