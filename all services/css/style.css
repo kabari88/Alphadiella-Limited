@@ -609,7 +609,7 @@ img {
     display: inline-block;
 }
 
-.main-header.fixed-header .logo a {
+/*.main-header.fixed-header .logo a {
     padding: 10px 0 10px;
     padding-left: 40px;
     position: relative;
@@ -618,7 +618,7 @@ img {
     background-image: url(../images/home/smallogo1.png);
     background-repeat: no-repeat;
     display: inline-block;
-}
+}*/
 
 .main-header .logo h1 {
     color: #222;
@@ -706,8 +706,8 @@ header.main-header.header-style-one.fixed-header.menu_fixed {
     position: relative;
     font-size: 14px;
     padding: 5px 0;
-    color: #ffffff;
-    background: #f7f7f7;
+    /*color: #2d0561;*/
+    background: #2d0561;
 }
 
 .main-header .header-top-one .top-left {
@@ -739,7 +739,7 @@ header.main-header.header-style-one.fixed-header.menu_fixed {
 
 .main-header .header-top-one ul li a {
     position: relative;
-    color: #848484;
+    color: #fff;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -764,7 +764,7 @@ header.main-header.header-style-one.fixed-header.menu_fixed {
     position: relative;
     display: block;
     line-height: 24px;
-    color: #848484;
+    color: #fff;
 }
 
 .main-header .main-box {
@@ -1273,9 +1273,9 @@ header.main-header.header-style-one.fixed-header.menu_fixed {
     float: left;
 }
 
-.header-style-three .main-menu .navigation>li:first-child {
+/*.header-style-three .main-menu .navigation>li:first-child {
     border-bottom: 1px solid #ee0594;
-}
+}*/
 
 .header-style-three .main-menu .navigation>li>a {
     padding: 5px 0;
@@ -1405,8 +1405,8 @@ header.main-header.header-style-one.fixed-header.menu_fixed {
 }
 
 .main-header.header-style-three .header-upper .btn-style-one {
-    background-color: #ee0594;
-    border-color: #ee0594;
+    background-color: #2d0561;
+    border-color: #2d0561;
     border-radius: 25px;
 }
 
@@ -8941,9 +8941,9 @@ figure.effect-bubba:hover p {
 }
 
 .featured-area .single-featured-item .text-holder a {
-    background: #ee0594;
+    background: #2d0561;
     color: #ffffff;
-    border: 2px solid #ee0594;
+    border: 2px solid #2d0561;
     border-radius: 30px;
     padding: 8px 30px 8px;
     text-transform: uppercase;

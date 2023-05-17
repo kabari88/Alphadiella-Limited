@@ -4,3 +4,12 @@
     padding-bottom: 20px;
 
 }
+
+.new-logo{
+    width: 110px;
+    height: 70px;
+}
+
+.navigation .current{
+    border-bottom: 1px solid #ee0594;
+}

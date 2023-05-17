@@ -61,7 +61,7 @@ just change the color code  and rgba value. The whole theme color will be change
 .rangeslider-widget button,
 .main-menu .navbar-header .navbar-toggle,
 .theme_bg_color {
-    background: #ee0594;
+    background: #2d0561;
 }
 
 .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -137,7 +137,7 @@ just change the color code  and rgba value. The whole theme color will be change
 .post-filter li.active span,
 .checkout-page .default-links li a,
 .thm-color:before {
-    color: #0a29b3;
+    color: #ee0594;
 }
 
 /* Filter the 2px solid border value classes */
@@ -195,14 +195,6 @@ figure.effect-bubba figcaption::after,
 }
 
 /* logo background */
-
-.main-header .logo a {
-    background-image: url(../../images/home/logo1.png);
-}
-
-.main-header.fixed-header .logo a {
-    background-image: url(../../images/home/smallogo1.png);
-}
 
 /* change the theme logo for your own color schemes */
 
